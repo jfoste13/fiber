@@ -1,7 +1,8 @@
 .divider{
   height: 1px;
-  width: 100%;
+  width: 75%;
   display: block;
+  margin-left: 12.5%;
   margin-top: 15px;
   margin-bottom: 25px;
   overflow: hidden;
@@ -19,4 +20,7 @@
 }
 .indent{
   text-indent: 40px;
+}
+ul {
+  list-style: inside;
 }
